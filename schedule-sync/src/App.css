@@ -1,0 +1,7 @@
+body {
+  background-color: #EBF2FA;
+}
+.get-started {
+  display: flex;
+  justify-content: center;
+}
